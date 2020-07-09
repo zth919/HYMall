@@ -10,6 +10,7 @@
 </template>
 
 <script>
+// 熟悉Git的使用
   import MainTabBar from 'content/mainTabbar/MainTabBar'
   import Icon from 'content/Icon/Icon.vue'
   import SvgIcon from 'content/Icon/svg.vue'
