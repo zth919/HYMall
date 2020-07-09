@@ -10,6 +10,7 @@
 </template>
 
 <script>
+// 测试
   import MainTabBar from 'content/mainTabbar/MainTabBar'
   import Icon from 'content/Icon/Icon.vue'
   import SvgIcon from 'content/Icon/svg.vue'
